@@ -2,5 +2,9 @@
   {
     "package": "QForm",
     "url": "https://github.com/ryanchrist/QForm"
+  },
+  {
+    "package": "renyi",
+    "url": "https://github.com/ryanchrist/renyi"
   }
 ]
