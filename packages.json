@@ -6,5 +6,9 @@
   {
     "package": "renyi", 
     "url": "https://github.com/ryanchrist/renyi"
+  },
+  {
+    "package": "locater", 
+    "url": "https://github.com/ryanchrist/locater"
   }
 ]
